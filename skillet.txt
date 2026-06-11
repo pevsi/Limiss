@@ -1,0 +1,48 @@
+limiss-bot/
+│
+├── main.py
+├── config.py
+├── requirements.txt
+├── .env
+│
+├── cogs/
+│   │
+│   ├── fun/
+│   │   ├── __init__.py
+│   │   └── fun.py
+│   │
+│   ├── logs/
+│   │   ├── __init__.py
+│   │   └── logs.py
+│   │
+│   ├── moderation/
+│   │   ├── __init__.py
+│   │   └── moderation.py
+│   │
+│   ├── economy/
+│   │   ├── __init__.py
+│   │   └── economy.py
+│   │
+│   ├── levels/
+│   │   ├── __init__.py
+│   │   └── levels.py
+│   │
+│   └── events/
+│       ├── __init__.py
+│       └── events.py
+│
+├── utils/
+│   ├── __init__.py
+│   └── embeds.py
+│
+├── data/
+│   ├── economy.db
+│   └── levels.db
+│
+└── assets/
+    │
+    ├── gifs/
+    │
+    ├── images/
+    │
+    └── fonts/
